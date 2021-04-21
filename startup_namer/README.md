@@ -1,16 +1,8 @@
 # startup_namer
 
-A new Flutter project.
+App that randomly creates startup names and saves your favorite ones.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/43687500/115575063-9694e080-a298-11eb-9d57-e91f7fba15ab.png" width="190" height="310">
+<img src="https://user-images.githubusercontent.com/43687500/115575101-a01e4880-a298-11eb-9217-66665105937b.png" width="190" height="310">
+</p>
